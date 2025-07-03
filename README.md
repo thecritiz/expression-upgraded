@@ -140,6 +140,4 @@ This is an academic/emotional AI demo. Emotion classification and genre recommen
 
 ---
 
-## 📸 Demo Screenshot (Optional)
 
-_Add a screenshot here if you want_
