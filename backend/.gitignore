@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Data/models (even if removed)
+*.h5
+*.csv
+
+# Env and system files
+.env
