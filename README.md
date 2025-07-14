@@ -1,5 +1,5 @@
 
-# 🎭 Expression-Upgraded: Emotion-Based Movie Recommender 🎬
+# 🎭 Expression-Upgraded: Emotion-Based Movie Recommender🎬
 
 A full-stack application that detects human emotions from images and recommends movies based on the detected emotion.
 
